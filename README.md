@@ -33,3 +33,7 @@ Side note
 Start the docker image with a specified name, i.e. `ubuntu-tmux`, then use
 `docker start -i ubuntu-tmux` to resume to the container if we accidentally
 exit/stop it.
+
+### Vimwiki
+
+Note for the book is write in vimwiki syntax.
